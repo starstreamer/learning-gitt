@@ -1,0 +1,14 @@
+1. Create the folder djangoexample
+2. Open folder in VS Code
+3. Open the terminal with Git Bash
+4. Run your virtual environment by running on gitbash /djangoexample $ python -m venv env
+5. After installing, activate by typing $ source env/Scripts/activate 
+6. INSTALL DJANGO by $ pip install django
+7. Create a django project by $ django-admin startproject 'projectname'
+7. Create a django project by $ django-admin startproject firstdjangoproject
+8. cd into the project with $ cd firstdjangoproject
+9. Create an app by using $ python manage.py start app 'appname'
+9. Create an app by using $ python manage.py start app firstapp
+10. Run server by using $ python manage.py runserver
+11. confirm by copying http and paste on browser. 
+
